@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: aquamarine;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.recipes {
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+.ul {
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+}
